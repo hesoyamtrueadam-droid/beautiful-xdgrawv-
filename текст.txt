@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>❤️</title>
+<style>
+body{
+    margin:0;
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background:linear-gradient(135deg,#ff9a9e,#fad0c4);
+    font-family:Arial,sans-serif;
+    text-align:center;
+}
+.card{
+    background:#fff;
+    padding:40px;
+    border-radius:20px;
+    box-shadow:0 10px 30px rgba(0,0,0,.2);
+}
+h1{
+    color:#e91e63;
+    font-size:48px;
+    margin:0;
+}
+p{
+    font-size:28px;
+    color:#444;
+}
+</style>
+</head>
+<body>
+<div class="card">
+    <h1>❤️</h1>
+    <p>Ты очень красивая!</p>
+</div>
+</body>
+</html>
